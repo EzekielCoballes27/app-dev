@@ -1,8 +1,10 @@
 # app-dev
 My first repository
 
-==The Flash==.
+**The Flash**
+
 [More Details] (https://www.imdb.com/title/tt3107288/)
+
 This series was concluded in 2023 that started all the way back from 2014. 
 
 1. **Barry Allen**
